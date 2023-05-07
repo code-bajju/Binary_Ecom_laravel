@@ -1,0 +1,301 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?3be6cdc14808ecb3dc6c008987796c33") format("truetype"), url("./flaticon.woff?3be6cdc14808ecb3dc6c008987796c33") format("woff"), url("./flaticon.woff2?3be6cdc14808ecb3dc6c008987796c33") format("woff2"), url("./flaticon.eot?3be6cdc14808ecb3dc6c008987796c33#iefix") format("embedded-opentype"), url("./flaticon.svg?3be6cdc14808ecb3dc6c008987796c33#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-hairstyle:before {
+  content: "";
+}
+
+.flaticon-popcorn:before {
+  content: "";
+}
+
+.flaticon-pillow:before {
+  content: "";
+}
+
+.flaticon-water-bottle:before {
+  content: "";
+}
+
+.flaticon-location:before {
+  content: "";
+}
+
+.flaticon-location-1:before {
+  content: "";
+}
+
+.flaticon-plug:before {
+  content: "";
+}
+
+.flaticon-mail:before {
+  content: "";
+}
+
+.flaticon-envelope:before {
+  content: "";
+}
+
+.flaticon-pin:before {
+  content: "";
+}
+
+.flaticon-location-2:before {
+  content: "";
+}
+
+.flaticon-telephone:before {
+  content: "";
+}
+
+.flaticon-call:before {
+  content: "";
+}
+
+.flaticon-smartphone:before {
+  content: "";
+}
+
+.flaticon-telephone-1:before {
+  content: "";
+}
+
+.flaticon-mobile-phone:before {
+  content: "";
+}
+
+.flaticon-phone-call:before {
+  content: "";
+}
+
+.flaticon-wifi-signal:before {
+  content: "";
+}
+
+.flaticon-wifi:before {
+  content: "";
+}
+
+.flaticon-wireless:before {
+  content: "";
+}
+
+.flaticon-share:before {
+  content: "";
+}
+
+.flaticon-user:before {
+  content: "";
+}
+
+.flaticon-user-1:before {
+  content: "";
+}
+
+.flaticon-user-2:before {
+  content: "";
+}
+
+.flaticon-user-3:before {
+  content: "";
+}
+
+.flaticon-add-user:before {
+  content: "";
+}
+
+.flaticon-add-user-1:before {
+  content: "";
+}
+
+.flaticon-wifi-1:before {
+  content: "";
+}
+
+.flaticon-calendar:before {
+  content: "";
+}
+
+.flaticon-calendar-1:before {
+  content: "";
+}
+
+.flaticon-calendar-2:before {
+  content: "";
+}
+
+.flaticon-tick-mark:before {
+  content: "";
+}
+
+.flaticon-heart:before {
+  content: "";
+}
+
+.flaticon-heart-1:before {
+  content: "";
+}
+
+.flaticon-heart-2:before {
+  content: "";
+}
+
+.flaticon-heart-3:before {
+  content: "";
+}
+
+.flaticon-heart-4:before {
+  content: "";
+}
+
+.flaticon-favourite:before {
+  content: "";
+}
+
+.flaticon-to-do-list:before {
+  content: "";
+}
+
+.flaticon-clipboards:before {
+  content: "";
+}
+
+.flaticon-favourite-1:before {
+  content: "";
+}
+
+.flaticon-star:before {
+  content: "";
+}
+
+.flaticon-star-1:before {
+  content: "";
+}
+
+.flaticon-star-2:before {
+  content: "";
+}
+
+.flaticon-right-quote:before {
+  content: "";
+}
+
+.flaticon-left-quote:before {
+  content: "";
+}
+
+.flaticon-quotation:before {
+  content: "";
+}
+
+.flaticon-quotation-1:before {
+  content: "";
+}
+
+.flaticon-home:before {
+  content: "";
+}
+
+.flaticon-house:before {
+  content: "";
+}
+
+.flaticon-home-1:before {
+  content: "";
+}
+
+.flaticon-left-chevron:before {
+  content: "";
+}
+
+.flaticon-price-tags:before {
+  content: "";
+}
+
+.flaticon-tag:before {
+  content: "";
+}
+
+.flaticon-tag-1:before {
+  content: "";
+}
+
+.flaticon-price-tag:before {
+  content: "";
+}
+
+.flaticon-wishlist:before {
+  content: "";
+}
+
+.flaticon-like:before {
+  content: "";
+}
+
+.flaticon-like-1:before {
+  content: "";
+}
+
+.flaticon-thumb-down:before {
+  content: "";
+}
+
+.flaticon-lock:before {
+  content: "";
+}
+
+.flaticon-clock:before {
+  content: "";
+}
+
+.flaticon-fees:before {
+  content: "";
+}
+
+.flaticon-growth:before {
+  content: "";
+}
+
+.flaticon-growth-1:before {
+  content: "";
+}
+
+.flaticon-lost:before {
+  content: "";
+}
+
+.flaticon-withdraw:before {
+  content: "";
+}
+
+.flaticon-withdrawal:before {
+  content: "";
+}
+
+.flaticon-money-bag:before {
+  content: "";
+}
+
+.flaticon-save-money:before {
+  content: "";
+}
+
+.flaticon-wallet:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
